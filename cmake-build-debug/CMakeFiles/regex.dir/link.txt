@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/regex.dir/main.cpp.o CMakeFiles/regex.dir/parser/parser.cpp.o CMakeFiles/regex.dir/lexer/lexer.cpp.o CMakeFiles/regex.dir/regex_ast/regex_tokens.cpp.o CMakeFiles/regex.dir/lexer/lex_token.cpp.o CMakeFiles/regex.dir/regex.cpp.o  -o regex 

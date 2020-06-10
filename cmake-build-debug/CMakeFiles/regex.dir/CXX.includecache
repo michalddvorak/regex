@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mdvorak/PJP/regex/main.cpp
+regex.hpp
+/home/mdvorak/PJP/regex/regex.hpp
+
+/home/mdvorak/PJP/regex/regex.hpp
+regex_ast/regex_tokens.hpp
+/home/mdvorak/PJP/regex/regex_ast/regex_tokens.hpp
+
+/home/mdvorak/PJP/regex/regex_ast/regex_tokens.hpp
+array
+-
+iostream
+-
+map
+-
+
